@@ -1,0 +1,14 @@
+testeCadastarUsuarioCompeto,nome,email,senha,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",Claudio Junior,jr.claudiosilveira@gmail.com,123456789,26780.0,26780.0,26780.0,26780.0,26780.0
+testeNomeInvalido,nome,email,senha,Duration(ms),Duration(ms),Duration(ms)
+"",Claudio,jr.claudiosilveira@gmail.com,123456789,4787.0,4787.0,4787.0
+testeSemNome,nome,email,senha,Duration(ms),Duration(ms),Duration(ms)
+"",,jr.claudiosilveira@gmail.com,123456789,4425.0,4425.0,4425.0
+testeEmailInvalido,nome,email,senha,Duration(ms),Duration(ms),Duration(ms)
+"",Claudio Junior,jr.claudiosilveira.gmail.com,123456789,6087.0,6087.0,6087.0
+testeSemEmail,nome,email,senha,Duration(ms),Duration(ms),Duration(ms)
+"",Claudio Junior,,123456789,5093.0,5093.0,5093.0
+testeSenhaInvalida,nome,email,senha,Duration(ms),Duration(ms),Duration(ms)
+"",Claudio Junior,jr.claudiosilveira@gmail.com,123,9466.0,9466.0,9466.0
+testeSemSenha,nome,email,senha,Duration(ms),Duration(ms),Duration(ms)
+"",Claudio Junior,jr.claudiosilveira@gmail.com,,13899.0,13899.0,13899.0

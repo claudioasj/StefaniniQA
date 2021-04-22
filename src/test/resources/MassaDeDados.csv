@@ -1,0 +1,20 @@
+testeCadastarUsuarioCompeto,nome,email,senha
+                           ,Claudio Junior,jr.claudiosilveira@gmail.com,123456789
+
+testeNomeInvalido,nome,email,senha
+                 ,Claudio,jr.claudiosilveira@gmail.com,123456789
+
+testeSemNome,nome,email,senha
+            ,,jr.claudiosilveira@gmail.com,123456789
+
+testeEmailInvalido,nome,email,senha
+                  ,Claudio Junior,jr.claudiosilveira.gmail.com,123456789
+
+testeSemEmail,nome,email,senha
+             ,Claudio Junior,,123456789
+
+testeSenhaInvalida,nome,email,senha
+                  ,Claudio Junior,jr.claudiosilveira@gmail.com,123
+
+testeSemSenha,nome,email,senha
+             ,Claudio Junior,jr.claudiosilveira@gmail.com,
